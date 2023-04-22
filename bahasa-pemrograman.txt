@@ -1,0 +1,9 @@
+Rencana Saya Untuk Bisa Frontend dan Backend Tahun Ini
+- HTML & CSS
+- Javascript
+- React,js
+- Framework React.js
+- Node.js
+- Framework React.js
+- Mengonsum API
+- Database
