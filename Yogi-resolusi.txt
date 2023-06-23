@@ -1,7 +1,9 @@
 Resolusi Yogi tahun ini
 - Konsisten dalam melakukan pembelajaran programing
 - Bisa react.js dan implementasinya
+  ^ Typescript
 - Bisa node.js beserta frameworknya
+  ^ Express.js
 - Bisa menggabungkan frontend dan backend
 - Membuat project website sendiri yang lengkap
 - Mengimplementasikan semua diatas dengan pengalaman freelancer
