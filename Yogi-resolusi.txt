@@ -5,3 +5,4 @@ Resolusi Yogi tahun ini
 - Bisa menggabungkan frontend dan backend
 - Membuat project website sendiri yang lengkap
 - Mengimplementasikan semua diatas dengan pengalaman freelancer
+- Membuat profile genpi
